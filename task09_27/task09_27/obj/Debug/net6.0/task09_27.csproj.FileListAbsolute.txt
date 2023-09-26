@@ -1,0 +1,14 @@
+D:\task09_27\task09_27\bin\Debug\net6.0\task09_27.exe
+D:\task09_27\task09_27\bin\Debug\net6.0\task09_27.deps.json
+D:\task09_27\task09_27\bin\Debug\net6.0\task09_27.runtimeconfig.json
+D:\task09_27\task09_27\bin\Debug\net6.0\task09_27.dll
+D:\task09_27\task09_27\bin\Debug\net6.0\task09_27.pdb
+D:\task09_27\task09_27\obj\Debug\net6.0\task09_27.GeneratedMSBuildEditorConfig.editorconfig
+D:\task09_27\task09_27\obj\Debug\net6.0\task09_27.AssemblyInfoInputs.cache
+D:\task09_27\task09_27\obj\Debug\net6.0\task09_27.AssemblyInfo.cs
+D:\task09_27\task09_27\obj\Debug\net6.0\task09_27.csproj.CoreCompileInputs.cache
+D:\task09_27\task09_27\obj\Debug\net6.0\task09_27.dll
+D:\task09_27\task09_27\obj\Debug\net6.0\refint\task09_27.dll
+D:\task09_27\task09_27\obj\Debug\net6.0\task09_27.pdb
+D:\task09_27\task09_27\obj\Debug\net6.0\task09_27.genruntimeconfig.cache
+D:\task09_27\task09_27\obj\Debug\net6.0\ref\task09_27.dll
